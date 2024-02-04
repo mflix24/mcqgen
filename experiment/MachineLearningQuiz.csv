@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is machine learning?,a:The study of statistical algorithms that can learn from data and perform tasks without explicit instructions | b:The study of computer gaming and artificial intelligence | c:The study of human cognitive processes | d:The study of exploratory data analysis through unsupervised learning,a
+Which field has machine learning been applied to?,a:Large language models | b:Computer vision | c:Speech recognition | d:All of the above,d
+Who coined the term 'machine learning'?,a:Arthur Samuel | b:Alan Turing | c:Donald Hebb | d:Tom M. Mitchell,a
+What is the mathematical foundation of machine learning?,a:Data mining | b:Mathematical optimization | c:Artificial neural networks | d:Computational statistics,b
+"According to Tom M. Mitchell, when does a computer program learn?",a:When it can think like a human | b:When it can perform tasks without explicit instructions | c:When it can recognize patterns | d:When its performance improves with experience,d
