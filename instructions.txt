@@ -26,3 +26,6 @@ jupyter notebook file to .py file
   and its code is 'conda create -p MyEnvironmentName python=3.9 -y'
 - now activate the just created environment by 'conda activate MyEnvironmentName'
 - finally, we are into the MyEnvironmentName environment
+- when you try to create a .ipynb file, after creating you have to select the kernel and 
+  select the environment which you just created
+- now we can use the jupyter notebook
